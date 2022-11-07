@@ -1,2 +1,4 @@
-# Website-Sederhana-HTML-CSS
-Simple website using HTML &amp; CSS
+# Simple website using HTML & CSS
+# Navigation System
+# Responsive Layout
+# Modern Design
