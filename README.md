@@ -1,4 +1,4 @@
 # Simple website using HTML & CSS
-# Navigation System
-# Responsive Layout
-# Modern Design
+- Navigation System
+- Responsive Layout
+- Modern Design
